@@ -23,6 +23,6 @@ Haza Baja Ringan adalah sebuah website perusahaan yang menyediakan berbagai info
 <a href="#"><img align="left" alt="SASS" title="SASS" width="39px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/512px-Sass_Logo_Color.svg.png" /></a>
 <a href="#"><img align="left" alt="NodeJS" title="NodeJS" width="58px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/590px-Node.js_logo.svg.png" /></a>
 
-#### Create by
+### Create by
 
 Katzee.
