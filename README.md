@@ -12,11 +12,10 @@ Adriyansyah
 
 Haza Baja Ringan adalah sebuah website perusahaan yang menyediakan berbagai informasi terkait konstruksi baja ringan, khususnya untuk atap dan struktur bangunan. Di dalamnya, Anda dapat menemukan berbagai layanan yang ditawarkan Haza Baja Ringan, mulai dari pemasangan atap baja ringan, kanopi, rangka plafon, hingga struktur bangunan lainnya. Website ini juga menyajikan rincian harga yang transparan untuk setiap layanan, informasi lengkap mengenai sejarah dan keahlian Haza Baja Ringan, serta kontak untuk konsultasi atau pemesanan. Tak ketinggalan, tersedia pula galeri hasil proyek yang telah diselesaikan sebagai referensi kualitas kerja tim Haza Baja Ringan dalam menghadirkan solusi konstruksi yang kuat, efisien, dan tahan lama.
 
-### Create by
+## Create by
 
 Katzee.
 
-### Tech Stack
 
 ## Tech Stack
 <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="32px" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" /></a>
