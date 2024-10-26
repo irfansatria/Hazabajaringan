@@ -1,0 +1,60 @@
+{
+  "id": "HAZA Baja Ringan App",
+  "start_url": ".",
+  "short_name": "HAZA - Baja Ringan",
+  "name": "HAZA Baja Ringan",
+  "description": "Percayakan Konstruksi Atap Anda kepada HAZA Baja Ringan",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#181818",
+  "icons": [
+    {
+      "src": "/icons/REVISI-72.png",
+      "sizes": "191x72",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/REVISI-96.png",
+      "sizes": "255x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/REVISI-128.png",
+      "sizes": "340x128",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/REVISI-144.png",
+      "sizes": "383x144",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/REVISI-152.png",
+      "sizes": "404x152",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/REVISI-192.png",
+      "sizes": "511x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icons/REVISI-384.png",
+      "sizes": "1021x384",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/REVISI-512.png",
+      "sizes": "1362x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
